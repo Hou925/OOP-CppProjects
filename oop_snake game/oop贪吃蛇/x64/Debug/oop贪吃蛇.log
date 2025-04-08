@@ -1,0 +1,42 @@
+﻿  control.cpp
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(57,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(57,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(131,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(131,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(141,80): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(141,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(159,84): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(159,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(171,80): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(171,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(191,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(191,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(260,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(260,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(273,80): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(273,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(291,84): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(291,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(306,80): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(306,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(326,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(326,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(397,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(397,62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(412,80): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(412,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(432,84): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(432,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(449,80): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(449,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  food.cpp
+  game.cpp
+  main.cpp
+E:\c++\oop贪吃蛇\oop贪吃蛇\main.cpp(15,19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  menu.cpp
+  snake.cpp
+  wall.cpp
+  正在生成代码...
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(464,1): warning C4715: “play_three”: 不是所有的控件路径都返回值
+E:\c++\oop贪吃蛇\oop贪吃蛇\control.cpp(319,1): warning C4715: “play_two”: 不是所有的控件路径都返回值
+  oop贪吃蛇.vcxproj -> E:\c++\oop贪吃蛇\x64\Debug\oop贪吃蛇.exe
