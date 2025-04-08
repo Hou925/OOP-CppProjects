@@ -1,0 +1,23 @@
+﻿  oop_clock_making.cpp
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(82,36): warning C4244: “=”: 从“double”转换到“COLORREF”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(83,36): warning C4244: “=”: 从“double”转换到“COLORREF”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(84,36): warning C4244: “=”: 从“double”转换到“COLORREF”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(87,36): warning C4244: “=”: 从“double”转换到“COLORREF”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(88,36): warning C4244: “=”: 从“double”转换到“COLORREF”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(89,36): warning C4244: “=”: 从“double”转换到“COLORREF”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(109,36): warning C4244: “=”: 从“double”转换到“COLORREF”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(110,36): warning C4244: “=”: 从“double”转换到“COLORREF”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(111,36): warning C4244: “=”: 从“double”转换到“COLORREF”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(114,36): warning C4244: “=”: 从“double”转换到“COLORREF”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(115,36): warning C4244: “=”: 从“double”转换到“COLORREF”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(116,36): warning C4244: “=”: 从“double”转换到“COLORREF”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(146,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(147,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(149,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(150,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(152,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(153,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(177,37): warning C4244: “=”: 从“double”转换到“COLORREF”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(178,37): warning C4244: “=”: 从“double”转换到“COLORREF”，可能丢失数据
+E:\c++\oop_clock_making\oop_clock_making\oop_clock_making.cpp(179,37): warning C4244: “=”: 从“double”转换到“COLORREF”，可能丢失数据
+  oop_clock_making.vcxproj -> E:\c++\oop_clock_making\Debug\oop_clock_making.exe
