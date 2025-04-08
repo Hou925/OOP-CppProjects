@@ -1,0 +1,3 @@
+﻿  lz4.cpp
+E:\c++\oop文件压缩lz4\oop文件压缩lz4\lz4.cpp(108,14): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+  oop文件压缩lz4.vcxproj -> E:\c++\oop文件压缩lz4\x64\Debug\oop文件压缩lz4.exe
